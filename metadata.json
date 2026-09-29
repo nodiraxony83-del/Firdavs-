@@ -1,0 +1,8 @@
+{
+  "name": "Fdego",
+  "description": "Children's 60,000 words vocabulary learning, voice pronunciation, speaking practice, grammar exercises, quizzes, historical biographies, and Sony Intellect AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
